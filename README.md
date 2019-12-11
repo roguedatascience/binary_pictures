@@ -2,5 +2,6 @@
 
 Link to live app: https://roguedatascience.shinyapps.io/binary_images/
 
-![GitHub Logo](pibe_example/pibe_original.jpg)
-Format: ![Alt Text](Original image)
+![Original image of El Pibe Valderrama](pibe_example/pibe_original.jpg)
+
+<img src="pibe_example/pibe_original.jpg" width="200" height="200" />
