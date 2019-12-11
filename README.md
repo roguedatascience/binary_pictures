@@ -1,6 +1,6 @@
 # Creating "binary" pictures
 
-### Related Instagram posts
+#### Related Instagram posts
 * https://www.instagram.com/p/BjqmRssH1Av/
 * https://www.instagram.com/p/Bjqmq7znpU3/
 
