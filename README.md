@@ -21,4 +21,4 @@ Link to live app: https://roguedatascience.shinyapps.io/binary_images/
   <img src="pibe_example/pibe12.png" width="450"/>
 </p>
 
-You can find the high definition images as well as the app settings needed to produce them here: [El Pibe Valderrama example](pibe_example)
+You can find the high definition images as well as the app settings needed to produce them here: [El Pibe Valderrama example](pibe_example).
