@@ -7,9 +7,9 @@ Link to live app: https://roguedatascience.shinyapps.io/binary_images/
 </p>
 
 <p align="center">
-  <img src="pibe_example/pibe1.png" width="300"/>
-  <img src="pibe_example/pibe2.png" width="300"/>
-  <img src="pibe_example/pibe3.png" width="300"/>
+  <img src="pibe_example/pibe1.png" width="250"/>
+  <img src="pibe_example/pibe2.png" width="250"/>
+  <img src="pibe_example/pibe3.png" width="250"/>
 </p>
 
 
