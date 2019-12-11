@@ -8,23 +8,23 @@ To better understand the functionality of the tool, it's super helpdul to look a
 
 ### Original image 
 <p align="center">
-  <img src="pibe_example/pibe_original.jpg" width="450"/>
+  <img src="pibe_example/pibe_original.jpg" width="550"/>
 </p>
 
 ### Edited images
 <p align="center">
-  <img src="pibe_example/pibe1.png" width="450"/>
-  <img src="pibe_example/pibe2.png" width="450"/>
-  <img src="pibe_example/pibe3.png" width="450"/>
-  <img src="pibe_example/pibe4.png" width="450"/>
-  <img src="pibe_example/pibe5.png" width="450"/>
-  <img src="pibe_example/pibe6.png" width="450"/>
-  <img src="pibe_example/pibe7.png" width="450"/>
-  <img src="pibe_example/pibe8.png" width="450"/>
-  <img src="pibe_example/pibe9.png" width="450"/>
-  <img src="pibe_example/pibe10.png" width="450"/>
-  <img src="pibe_example/pibe11.png" width="450"/>
-  <img src="pibe_example/pibe12.png" width="450"/>
+  <img src="pibe_example/pibe1.png" width="550"/>
+  <img src="pibe_example/pibe2.png" width="550"/>
+  <img src="pibe_example/pibe3.png" width="550"/>
+  <img src="pibe_example/pibe4.png" width="550"/>
+  <img src="pibe_example/pibe5.png" width="550"/>
+  <img src="pibe_example/pibe6.png" width="550"/>
+  <img src="pibe_example/pibe7.png" width="550"/>
+  <img src="pibe_example/pibe8.png" width="550"/>
+  <img src="pibe_example/pibe9.png" width="550"/>
+  <img src="pibe_example/pibe10.png" width="550"/>
+  <img src="pibe_example/pibe11.png" width="550"/>
+  <img src="pibe_example/pibe12.png" width="550"/>
 </p>
 
 
