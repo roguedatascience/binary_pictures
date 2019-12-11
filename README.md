@@ -10,6 +10,7 @@ Link to live app: https://roguedatascience.shinyapps.io/binary_images/
   <img src="pibe_example/pibe1.png" width="450"/>
   <img src="pibe_example/pibe2.png" width="450"/>
   <img src="pibe_example/pibe3.png" width="450"/>
+  <img src="pibe_example/pibe7.png" width="450"/>
 </p>
 
 You can find more example here: [El Pibe Valderrama example](pibe_example)
