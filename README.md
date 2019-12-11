@@ -3,7 +3,7 @@
 Link to live app: https://roguedatascience.shinyapps.io/binary_images/
 
 <p align="center">
-  <div style="text-align:center"><img src="pibe_example/pibe_original.jpg" width="500" class="center"/></div>
+  <img src="pibe_example/pibe_original.jpg" width="500"/>
 </p>
 
 <p align="center">
