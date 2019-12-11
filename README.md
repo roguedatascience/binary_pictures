@@ -1,6 +1,6 @@
 # Creating "binary" pictures
 
-The original intent of this project was to create a tool that performed a simple task: convert images to black and white pixels and convert to black pixels into binary: 0s and 1s. But then the question arose: why stop at 0s and 1s and at black and white. This quickly ballooned into an extensive image editing tool/app built in R shiny, that has very varied functionality, all centered around converting the pixels of images into graphical elements.
+The original intent of this project was to create a tool that performed a simple task: convert images to black and white pixels and convert to black pixels into binary: 0s and 1s. But then the question arose: why stop at 0s and 1s and at black and white. This quickly ballooned into an extensive image editing tool/app built in R shiny, that has very varied functionality, all centered around converting the pixels of images into graphical elements. The app is all sontained in the [standalone R file](binary_posters--shiny_app.R).
 
 You can find the live app here: https://roguedatascience.shinyapps.io/binary_images/
 
